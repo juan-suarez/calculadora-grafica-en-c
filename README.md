@@ -13,6 +13,7 @@ La calculadora **no reconoce** :
 * divisiones(/)
 * logaritmos(ln,log)
 * raices(sqrt)
+* ningun simbolo matematico a excepcion de (+ , -).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
