@@ -6,5 +6,5 @@ Todo el proyecto fue hecho 100% en el lenguaje de programacion C por lo que se t
 * el codigo solo funiona en un compilador de 32 bits.
 * es necesario descargar las librerias conio.h y grapics.h.
 
-tambien tener en cuenta que es un proyecto que hice en mi primer año de estudio por lo tanto hay mucho por mejorar en el codigo, en un futuro sacaré una version mejorada en c++. 
+tambien tener en cuenta que es un proyecto que hice en mi primer año de estudio. por lo tanto hay mucho por mejorar en el codigo, en un futuro sacaré una version mejorada en c++. 
 
